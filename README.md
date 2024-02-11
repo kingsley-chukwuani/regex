@@ -10,6 +10,7 @@ This javascript program provides a function, `validateCreditCardNumber`, to vali
 
 **REGULAR EXPRESSION PATTERNS DESCRIPTION**
 
+
  VISA PATTERN: `/^4[0-9]{12}(?:[0-9]{3})?$/`.
  
 - This pattern matches Visa card numbers.
